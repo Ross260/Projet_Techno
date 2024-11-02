@@ -1,0 +1,56 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    font-size: 20px;
+}
+
+/* LA NAVBAR */
+
+    nav a {
+        margin-right: 15px;
+        font-size: 20px;
+    }
+
+    nav a:hover {
+        margin-right: 15px;
+        font-size: 20px;
+        color: aquamarine;
+        cursor: pointer;
+    }
+
+    .navbar-custom {
+        background-color: #ffffff;
+        border-bottom: 1px solid #e0e0e0;
+        padding: 20px 30px;
+        position: fixed;
+        top: 0;
+        width: 100%;
+        z-index: 1000;
+    }
+    .carousel-custom {
+        margin-top: 100px; /* Ajustez cette valeur en fonction de la hauteur de votre navbar */
+    }
+/* -------------------------------------------- */
+main{
+    margin-bottom: 80px;
+}
+
+
+
+/* le footer */
+.footer {
+    color: rgb(9, 9, 9);
+    padding: 20px 0;
+}
+.footer a {
+    color: rgb(237, 251, 236);
+    text-decoration: none;
+}
+.footer a:hover {
+    color: white;
+    text-decoration: none;
+}
+.footer .social-icons a {
+    margin: 0 10px;
+}

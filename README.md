@@ -1,1 +1,1 @@
-# Application Web de gestion de projet collaboratif
+# Site web de Gestion de Projets Collaboratifs
