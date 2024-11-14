@@ -23,7 +23,7 @@
 
     if (isset($_POST['send'])) {  
 
-            if ($_POST['pseudo'] === 'Laissad' && password_verify($_POST['password'], $password)) {
+            if ($_POST['pseudo'] === 'gogo' && password_verify($_POST['password'], $password)) {
                 session_start();
                 $_SESSION['connecte'] = 1; // stoqué son état de connexion
                  header("Location: ../../dashboardhome.php");//redirection vers la page d'acceuil
