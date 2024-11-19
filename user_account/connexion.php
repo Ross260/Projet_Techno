@@ -12,6 +12,7 @@
 <?php 
 
     include './navbar.php';
+    
 ?>
 
     <div class="cont" style="height: 700px; margin-top: 90px;">
